@@ -13,24 +13,5 @@
 		<name>ApexTrigger</name> 
 	</types>
 	
-	<!--<types>
-		<members>MyReports</members>
-	    <members>MyReports/Account_Tabular_Report_ol2</members>
-        <name>Report</name>
-	</types>
-	<types>
-		<members>MyDashboards</members>
-	    <members>MyDashboards/Accounts Dashboard</members>
-        <name>Dashboard</name>
-	</types> -->
-	<types>
-		<members>*</members>
-		<name>PermissionSet</name> 
-	</types>
-	<types>
-		<members>*</members>
-		<name>Profile</name> 
-	</types>
-	
     <version>54.0</version>
 </Package>
